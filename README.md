@@ -12,8 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
-# DESCRIPTION OF TASK #
-# TASK 1 : File-Handling-Utility #
+# DESCRIPTION OF TASK 
+# TASK 1 : File-Handling-Utility 
 
 The File Handling Utility is a Java-based project that demonstrates the practical use of file management operations through Java’s Input/Output (I/O) package. In today’s digital world, working with files is an essential requirement for almost every application, whether it is a desktop program, web application, or enterprise software. This project provides a simple yet effective approach to handling files in Java and showcases how different file-related operations can be implemented in a structured way.
 
@@ -23,12 +23,9 @@ The project is divided into different modules where each module performs a speci
 
 This project not only emphasizes coding skills but also improves logical thinking and problem-solving ability. It provides practical exposure to working with file systems, handling real-time exceptions, and ensuring data integrity. Moreover, it demonstrates how reusable methods can be designed for different file operations, which enhances the overall reusability and modularity of the code.
 
-ACTIVITIES PERFORMED : Implementing File Reading
-                       Implementing File Writing
-                       Implementing File Modification
-                       Testing the Program 
-KEY LEARNING OUTCOMES : Understanding Java I/O streams.
-                        Working with the File class for file/directory management.
-                        Implementing exception handling for robust file operations.
-                        Performing operations like read, write, update.
-                        Gaining hands-on experience in real-world file management tasks.
+ACTIVITIES PERFORMED : Implementing File Reading , Implementing File Writing , Implementing File Modification , Testing the Program 
+KEY LEARNING OUTCOMES : Understanding Java I/O streams , Working with the File class for file/directory management , Implementing exception handling for robust file operations , Performing operations like read, write, update , Gaining hands-on experience in real-world file management tasks.
+
+# OUTPUT 
+<img width="1200" height="741" alt="image" src="https://github.com/user-attachments/assets/69841e8e-46d3-435c-a7ae-92c13270fad9" />
+
